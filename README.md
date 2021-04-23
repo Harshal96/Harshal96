@@ -2,6 +2,8 @@
 
 I design APIs and Systems for Visa & Digiotouch, I also build UI & perform UXR creating continuous interactions between the digital and physical reality. 
 
+Read more about me, my previous work/projects, my blog on my portfolio: https://harshal.one
+
 - **2014**: started web development only using HTML/CSS/JS 
 - **2017**: built and deployed over 50 websites by 2017 learning more technologies and developed a keen sense for UI
 - **2018**: got bachelors from Mumbai University and started masters at Carnegie Mellon University
