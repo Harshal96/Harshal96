@@ -21,7 +21,7 @@ let harshalparekh = {
   passions: ["API Design", "System Design", "User Experience Research", "Backend Engineering", "Catching Pokemon"],
   tools: ["OpenAPI/Swagger", "HTML5 + CSS3 + JS", "React", "Vert.x / FastAPI / Express", "AWS/GCP/Azure", "Docker + Kubernetes"],
   hate: ["c++", "vim", "Azure DevOps", "PHP", "procedural code", "milk in coffee"],
-  love: ["generators in Python", "streams with double::colon operator in Java", "answering on stackoverflow", "coffee"]
+  love: ["generators in Python", "streams with double::colon operator in Java", "typescript", "answering on stackoverflow", "coffee"]
 }
 ```
 
