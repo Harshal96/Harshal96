@@ -5,9 +5,9 @@ I design APIs and Systems for Visa & Digiotouch, I also build UI & perform UXR c
 Read more about me, my previous work/projects, my blog on my portfolio: https://harshal.one
 
 - **2014**: started web development only using HTML/CSS/JS 
-- **2017**: built and deployed over 50 websites by 2017 learning more technologies and developed a keen sense for UI
+- **2017**: launched an integrated agency and deployed over 50 websites by 2017 learning more technologies and developing a keen sense for UI
 - **2018**: got bachelors from Mumbai University and started masters at Carnegie Mellon University
-- **2019**: wrote low-overhead backend code in Vert.x and deployed fault-tolerant docker images into multiple kubernetes pods
+- **2019**: wrote low-overhead backend code in Vert.x (or Scala, FastAPI, Go) and deployed fault-tolerant docker images into multiple kubernetes pods
 - **2020**: designed APIs using OpenAPI/Swagger
 - **2021**: combined all of the above as I lead the development of *Athena at Visa* and *Paradise IoT Dashboard at Digiotouch*
 
