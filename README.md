@@ -1,6 +1,6 @@
 # Hi, I'm Harshal 
 
-I design APIs and Systems for Visa & Digiotouch, I also build UI & perform UXR creating continuous interactions between the digital and physical reality. 
+I design APIs and Systems for 6sense, previously for Visa, I sometimes work on UI & perform UXR creating continuous interactions between the digital and physical reality. 
 
 Read more about me, my previous work/projects, my blog on my portfolio: https://harshal.one
 
