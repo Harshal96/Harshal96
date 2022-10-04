@@ -17,7 +17,7 @@ In an instance:
 let harshalparekh = {
   name: "Harshal Parekh",
   education: "Masters of Information Systems Management - Carnegie Mellon University",
-  work: ["Senior Software Developer at Visa", "Distinguished Developer at Digiotouch"],
+  work: ["Software Engineer at 6sense", "Software Engineer at Visa"],
   passions: ["API Design", "System Design", "User Experience Research", "Backend Engineering", "Catching Pokemon"],
   tools: ["OpenAPI/Swagger", "HTML5 + CSS3 + JS", "React", "Vert.x / FastAPI / Express", "AWS/GCP/Azure", "Docker + Kubernetes"],
   hate: ["c++", "vim", "Azure DevOps", "PHP", "procedural code", "milk in coffee"],
