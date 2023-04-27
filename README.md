@@ -7,7 +7,7 @@ Read more about me, my previous work/projects, my blog on my portfolio: https://
 - **2014**: started web development only using HTML/CSS/JS 
 - **2017**: launched an integrated agency and deployed over 50 websites by 2017 learning more technologies and developing a keen sense for UI
 - **2018**: got bachelors from Mumbai University and started masters at Carnegie Mellon University
-- **2019**: wrote low-overhead backend code in Vert.x (or Scala, FastAPI, Go) and deployed fault-tolerant docker images into multiple kubernetes pods
+- **2019**: wrote low-overhead backend code in Vert.x (and sometimes in Scala, FastAPI, Go) and used kubernetes as a choice of deployment
 - **2020**: designed APIs using OpenAPI/Swagger
 - **2021**: built frameworks and archetypes for Visa
 - **2022**: joined 6sense
