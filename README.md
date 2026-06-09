@@ -6,6 +6,28 @@ tldr; I am a software engineer.
 
 > It is with this interest I approach research, procedure, and plan as mediums for examining, inciting, and encouraging the poetics of interactions. My work is grounded in the interplay of humans, nature, and innovation; a lifelong exploration of what it means to be human, and how we can better connect with each other.
 
+## Working On
+
+The `veri*` suite — open-source platform tooling that replaces paid commercial tools. No vendor lock-in. Ships to production.
+
+| Project | What it does | Status |
+|---------|-------------|--------|
+| [verisim](https://github.com/Harshal96/verisim) | Context-aware synthetic data for Python. Generates coherent Pydantic domain objects — names, emails, jobs, and addresses that actually belong to the same person. | ✅ Released |
+| [veriload](https://github.com/Harshal96/veriload) | Load testing with real observability. Pluggable `MetricsSink` streams to Prometheus and OTEL out of the box. | ✅ Released |
+| [veriflags](https://github.com/Harshal96/veriflags) | Feature flag management. Typed multivariate variations, polling delivery, audit log, and a Python SDK over a Java/Helidon backend. | ✅ Released |
+| vericov | Code coverage — minus the SaaS bill. | 🚧 In progress |
+
+## Contributor At
+
+| Project | Stars |
+|---------|-------|
+| [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img) — Modern Bazel rules for OCI container images | [![GitHub Repo stars](https://img.shields.io/github/stars/bazel-contrib/rules_img?style=social)](https://github.com/bazel-contrib/rules_img) |
+| [python-hyper/h2](https://github.com/python-hyper/h2) — Fast, embeddable Java SQL database | [![GitHub Repo stars](https://img.shields.io/github/stars/h2database/h2database?style=social)](https://github.com/h2database/h2database) |
+| [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) — Distributed and parallel test execution for pytest | [![GitHub Repo stars](https://img.shields.io/github/stars/pytest-dev/pytest-xdist?style=social)](https://github.com/pytest-dev/pytest-xdist) |
+| [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) — Reactive application toolkit for the JVM | [![GitHub Repo stars](https://img.shields.io/github/stars/eclipse-vertx/vert.x?style=social)](https://github.com/eclipse-vertx/vert.x) |
+| [vert-x3/vertx-web](https://github.com/vert-x3/vertx-web) — Web building blocks for Vert.x | [![GitHub Repo stars](https://img.shields.io/github/stars/vert-x3/vertx-web?style=social)](https://github.com/vert-x3/vertx-web) |
+| [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) — Python instrumentation packages for OpenTelemetry | [![GitHub Repo stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-contrib?style=social)](https://github.com/open-telemetry/opentelemetry-python-contrib) |
+
 ## Timeline
 
 | Year     | Milestone |
