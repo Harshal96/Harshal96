@@ -15,7 +15,9 @@ The `veri*` suite — open-source platform tooling that replaces paid commercial
 | [verisim](https://github.com/Harshal96/verisim) | Context-aware synthetic data for Python. Generates coherent Pydantic domain objects — names, emails, jobs, and addresses that actually belong to the same person. | ✅ Released |
 | [veriload](https://github.com/Harshal96/veriload) | Load testing with real observability. Pluggable `MetricsSink` streams to Prometheus and OTEL out of the box. | ✅ Released |
 | [veriflags](https://github.com/Harshal96/veriflags) | Feature flag management. Typed multivariate variations, polling delivery, audit log, and a Python SDK over a Java/Helidon backend. | ✅ Released |
-| vericov | Code coverage — minus the SaaS bill. | 🚧 In progress |
+| [vericov](https://github.com/Harshal96/vericov) | Self-hosted coverage backend. Ships normalized reports and policy gates from CI — on your own PostgreSQL, no SaaS bill required. | ✅ Released |
+| [veridocs](https://github.com/Harshal96/veridocs) | Static API docs from Markdown. Slate-compatible three-column layout — prose, code samples, live language switching — zero framework overhead. | ✅ Released |
+| verilogs | Log management. Structured ingestion, storage, and search — without shipping your logs to a third-party SaaS. | 🚧 In progress |
 
 ## Contributor At
 
