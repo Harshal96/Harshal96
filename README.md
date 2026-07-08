@@ -29,6 +29,7 @@ The `veri*` suite — open-source platform tooling that replaces paid commercial
 | [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) — Reactive application toolkit for the JVM | [![GitHub Repo stars](https://img.shields.io/github/stars/eclipse-vertx/vert.x?style=social)](https://github.com/eclipse-vertx/vert.x) |
 | [vert-x3/vertx-web](https://github.com/vert-x3/vertx-web) — Web building blocks for Vert.x | [![GitHub Repo stars](https://img.shields.io/github/stars/vert-x3/vertx-web?style=social)](https://github.com/vert-x3/vertx-web) |
 | [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) — Python instrumentation packages for OpenTelemetry | [![GitHub Repo stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-contrib?style=social)](https://github.com/open-telemetry/opentelemetry-python-contrib) |
+| [valyala/fasthttp](https://github.com/valyala/fasthttp) — Fast HTTP package for Go. Tuned for high performance. | [![GitHub Repo stars](https://img.shields.io/github/stars/valyala/fasthttp?style=social)](https://github.com/valyala/fasthttp) |
 
 ## Timeline
 
