@@ -1,6 +1,6 @@
 # Hi, I'm Harshal 
 
-tldr; I am a software engineer.
+tldr; I am a software engineer. read more https://harshal.tech
 
 > I focus my design and development around stories. Stories of what it has been, what it is, and what it can be. Stories that have a faint scent of recognition – an inviting solace – however are bound with a wild appeal, a reinvention of convention, and a hypothesis of probability.
 
